@@ -1,4 +1,4 @@
-Contains various stuff (that I'm allowed to share - non-company property) - e.g.:
+Contains various stuff - e.g.:
 
 Working drivers for some WLAN chipsets (as described here: [https://vedran-zulin.com/cybersec-it-sec-it-it-grc/windows/airlive-wl-1700usb-tp-link-archer-t3u-plus-windows-11-drivers.html](https://vedran-zulin.com/cybersec-it-sec-it-it-grc/windows/airlive-wl-1700usb-tp-link-archer-t3u-plus-windows-11-drivers.html))
 
